@@ -1,0 +1,252 @@
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\index.htm
+Content Type: text/html
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/callback/4.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\callback\4.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/callback/call-m1-style.css
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\callback\call-m1-style.css
+Content Type: text/css
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/callback/call-m1.js
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\callback\call-m1.js
+Content Type: application/javascript
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/callback/call-phone-m1.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\callback\call-phone-m1.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/callback/popup-m1-phone.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\callback\popup-m1-phone.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/callback/popup-m1-style.css
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\callback\popup-m1-style.css
+Content Type: text/css
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/callback/popup-m1.js
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\callback\popup-m1.js
+Content Type: application/javascript
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/favicon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\favicon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/images/youtube-play-icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\images\youtube-play-icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/js/jquery-3.5.1.min.js
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\js\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/common/js/previewYouTube.js
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\common\js\previewYouTube.js
+Content Type: application/javascript
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/css/reset.css
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\css\reset.css
+Content Type: text/css
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/css/styles.css
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\css\styles.css
+Content Type: text/css
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/favicon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\favicon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/AvenirNextCyr.css
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\AvenirNextCyr.css
+Content Type: text/css
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Bold.ttf
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Bold.woff
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Bold.woff
+Content Type: application/font-woff
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Bold.woff2
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Bold.woff2
+Content Type: 
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Light.ttf
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Light.ttf
+Content Type: application/font-sfnt
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Light.woff
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Light.woff
+Content Type: application/font-woff
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Light.woff2
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Light.woff2
+Content Type: 
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Medium.ttf
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Medium.ttf
+Content Type: application/font-sfnt
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Medium.woff
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Medium.woff
+Content Type: application/font-woff
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Medium.woff2
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Medium.woff2
+Content Type: 
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Regular.ttf
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Regular.woff
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Regular.woff
+Content Type: application/font-woff
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/fonts/subset-AvenirNextCyr-Regular.woff2
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\fonts\subset-AvenirNextCyr-Regular.woff2
+Content Type: 
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/offer3__benefit1_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\offer3__benefit1_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/offer3__benefit2_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\offer3__benefit2_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/offer3__benefit3_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\offer3__benefit3_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/offer3__clock_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\offer3__clock_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/offer3__discount_bg.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\offer3__discount_bg.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/offer__tick_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\offer__tick_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/order_steps1__step1_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\order_steps1__step1_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/order_steps1__step2_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\order_steps1__step2_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/order_steps1__step3_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\order_steps1__step3_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/order_steps1__step4_icon.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\order_steps1__step4_icon.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/images/slider__arrows.png
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\images\slider__arrows.png
+Content Type: image/png
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/landing-template-assets/japan-steel3/js/scripts.js
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\landing-template-assets\japan-steel3\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/privacy-policy
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\privacy-policy.html
+Content Type: text/html
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/AKiKKOdG75zEdvVCt0XpKoQrR30kW167PlhVd8lL.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\AKiKKOdG75zEdvVCt0XpKoQrR30kW167PlhVd8lL.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/bc0dWLf8CygPMwIiQ0q57rrd9SnYcAsN32xZUksU.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\bc0dWLf8CygPMwIiQ0q57rrd9SnYcAsN32xZUksU.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/hjQREKC2VDJqghK27P5ZtU8ndLRvxknox0KiUw3X.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\hjQREKC2VDJqghK27P5ZtU8ndLRvxknox0KiUw3X.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/ikFDIczEZ1qZYJyhJHaFffxWkA5ASAdWh4Kmq96S.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\ikFDIczEZ1qZYJyhJHaFffxWkA5ASAdWh4Kmq96S.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/iP0ELD5axsnbPnh2N1Fiwx4oBZNZMSUqZkD6xnuw.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\iP0ELD5axsnbPnh2N1Fiwx4oBZNZMSUqZkD6xnuw.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/Jk9hs8wu3GVM2R5o5EcoiwzuJGkt4qGyvT5wiMyF.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\Jk9hs8wu3GVM2R5o5EcoiwzuJGkt4qGyvT5wiMyF.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/kBkwztonlarWybmUmVgpCw8ebzH4tQugNgdyrE0a.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\kBkwztonlarWybmUmVgpCw8ebzH4tQugNgdyrE0a.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/kXK6cIneIA17tSoveOrcmHtI3F5qxEvgBfjMvkgG.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\kXK6cIneIA17tSoveOrcmHtI3F5qxEvgBfjMvkgG.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/LMrTHCig0liK9SP4LkL8DZhWVAb5PVKa5ET1HWqA.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\LMrTHCig0liK9SP4LkL8DZhWVAb5PVKa5ET1HWqA.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/mKqvX7mgffkVdWk88jsz9DHlE6pfwerbvU4Kh8lm.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\mKqvX7mgffkVdWk88jsz9DHlE6pfwerbvU4Kh8lm.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/pRBDYyZHLohYiFgzy1xkDhiw18FrKPLS7VW0dNdE.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\pRBDYyZHLohYiFgzy1xkDhiw18FrKPLS7VW0dNdE.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/pTA8rRHDw8BedRZQayklxvurOqu03MsJEY5ycsd5.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\pTA8rRHDw8BedRZQayklxvurOqu03MsJEY5ycsd5.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/qcIMhEJBi2NYvsLj9W7LdSqR2lHrHzgkMNmBwYOZ.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\qcIMhEJBi2NYvsLj9W7LdSqR2lHrHzgkMNmBwYOZ.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/TxvCnGopjGZtVd4Dj1xv1tyzDAsVekgzxAD6jtCW.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\TxvCnGopjGZtVd4Dj1xv1tyzDAsVekgzxAD6jtCW.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/V42x6qfzCxLSOq21bALw6UsKb5tKZrxgAtF96Ov1.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\V42x6qfzCxLSOq21bALw6UsKb5tKZrxgAtF96Ov1.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/wKeZBcx55WN1oZsk8Xv0mZjoRwxTJCIZmZmM6ely.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\wKeZBcx55WN1oZsk8Xv0mZjoRwxTJCIZmZmM6ely.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/storage/images/landings/9706/WTt3em0nzUoZN77P0w4TOctFt5QnEMzzA9rzJ1Lt.jpeg
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\storage\images\landings\9706\WTt3em0nzUoZN77P0w4TOctFt5QnEMzzA9rzJ1Lt.jpeg
+Content Type: image/jpeg
+
+Uri: http://malashkov-1997-mail-ru-9706.lp-mobi.biz/terms-of-use
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\terms-of-use.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:300&subset=cyrillic
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCAYag.ttf
+File Name: C:\Downloaded Web Sites\malashkov-1997-mail-ru-9706.lp-mobi.biz\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCAYag.ttf
+Content Type: font/ttf
+
